@@ -10,4 +10,6 @@ CREATE TABLE `allburgers` (
 	`date` TIMESTAMP,
 
 
-	PRIMARY KEY ( `id` ) ); /* Set ID as primary key */
+PRIMARY KEY ( `id` ) 
+); 
+/* Set ID as primary key */
